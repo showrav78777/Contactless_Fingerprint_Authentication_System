@@ -135,7 +135,7 @@ SNN/models/
 
 ---
 
-## 📷 Screenshots
+
 
 ## 📷 Screenshots
 

@@ -137,7 +137,10 @@ SNN/models/
 
 ## 📷 Screenshots
 
-(Add your app screenshots here)
+![1](./screenshots/flutter_01.png)
+![2](./screenshots/flutter_02.png)
+![3](./screenshots/flutter_03.png)
+![4](./screenshots/flutter_04.png)
 
 ---
 

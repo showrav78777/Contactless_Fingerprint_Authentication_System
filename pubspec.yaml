@@ -1,0 +1,57 @@
+name: finger
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"  # This SDK constraint is appropriate for Flutter 3.5.x
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5+9      # Updated to a more stable version compatible with latest Flutter
+  path_provider: ^2.1.2  # Updated to latest stable version
+  sqflite: ^2.3.2        # Updated to latest stable version
+  
+  cupertino_icons: ^1.0.6 # Updated to latest stable version
+  permission_handler: ^11.3.0
+  http: ^1.2.0
+  shared_preferences: ^2.2.2
+  uuid: ^4.3.3
+  cached_network_image: ^3.2.3
+  network_info_plus: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+  connectivity_plus: ^5.0.2
+  flutter_mediapipe: ^0.0.7
+  vector_math: ^2.1.4
+  image: ^4.5.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1  # Updated to a more stable version
+
+
+flutter:
+  uses-material-design: true
+
+  # Assets section is correctly uncommented
+  assets:
+    - assets/2313181.png
+
+  # Uncomment and update fonts section if you plan to use custom fonts.
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/2313181.png"
+  min_sdk_android: 21

@@ -137,10 +137,21 @@ SNN/models/
 
 ## 📷 Screenshots
 
+## 📷 Screenshots
+
 ![1](./screenshots/flutter_01.png)
 ![2](./screenshots/flutter_02.png)
 ![3](./screenshots/flutter_03.png)
 ![4](./screenshots/flutter_04.png)
+![5](./screenshots/flutter_05.png)
+![6](./screenshots/flutter_06.png)
+![7](./screenshots/flutter_07.png)
+![8](./screenshots/flutter_08.png)
+![9](./screenshots/flutter_09.png)
+![10](./screenshots/flutter_10.png)
+![11](./screenshots/flutter_11.png)
+![12](./screenshots/flutter_12.png)
+![13](./screenshots/flutter_13.png)
 
 ---
 
